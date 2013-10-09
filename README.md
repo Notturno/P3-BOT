@@ -892,8 +892,8 @@
     downloadCommand.prototype.functionality = function() {
       var msg;
       msg = "  Participe do grupo! https://www.facebook.com/groups/proj3ctbr/ ";
-      msg += "= ";
-      msg += "= ";
+      msg += " ";
+      msg += " ";
       return API.sendChat(msg);
     };
 
