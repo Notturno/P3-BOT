@@ -884,7 +884,7 @@
     }
 
     downloadCommand.prototype.init = function() {
-      this.command = '!tbr';
+      this.command = '!p3';
       this.parseType = 'exact';
       return this.rankPrivelege = 'featured';
     };
