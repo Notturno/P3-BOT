@@ -349,7 +349,7 @@
   })();
 
   pupOnline = function() {
-    return API.sendChat("/me: TBRbot Online! v 4.0");
+    return API.sendChat("/me: P3bot Online! v 2.0");
   };
 
   populateUserData = function() {
